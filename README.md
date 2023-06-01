@@ -1,2 +1,2 @@
 # edubzs-website
-my kewl website made purely with html and css
+my cool website made purely with html and css
